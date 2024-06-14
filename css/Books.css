@@ -137,7 +137,14 @@ footer input {
   bottom: 180px;
   border-radius: 20px;
 }
+.ahreftext{
+  text-decoration: none;
+  color: #F0EBCE;
+}
 
+.ahreftext:hover{
+  color: #AA8B56;
+}
 .fa-brands {
   color: #F0EBCE;
   position: relative;
@@ -406,4 +413,8 @@ footer input {
   .text {
     font-size: 11px
   }
+}
+#T13K{
+  width: 450px;
+  height: 465px;
 }
